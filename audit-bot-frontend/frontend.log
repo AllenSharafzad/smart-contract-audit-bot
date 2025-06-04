@@ -1,0 +1,19 @@
+
+> audit-bot-frontend@0.1.0 dev
+> next dev
+
+   Loading config from /home/ubuntu/smart-contract-audit-bot/audit-bot-frontend/next.config.ts
+   Loading config from /home/ubuntu/smart-contract-audit-bot/audit-bot-frontend/next.config.ts
+   ▲ Next.js 15.3.3
+   - Local:        http://localhost:3000
+   - Network:      http://100.111.40.82:3000
+
+ ✓ Starting...
+   Loading config from /home/ubuntu/smart-contract-audit-bot/audit-bot-frontend/next.config.ts
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+   Loading config from /home/ubuntu/smart-contract-audit-bot/audit-bot-frontend/next.config.ts
+ ✓ Ready in 2.9s
